@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "file": "package/spritesheet.png",
+  "format": "PNG",
+  "mode": "RGBA",
+  "width": 1536,
+  "height": 1872,
+  "sprite_version_number": 1,
+  "occupied_frames": 57,
+  "sha256": "eb0a513f860240a629005ead4098173b09c4cf88118184596a31a915417b956f",
+  "errors": []
+}
